@@ -73,6 +73,7 @@ This studio course introduces students to the culture and practice of open sourc
 - Comment on at least one other issue / pull request.
 - Write some reflections on what open source means to you. Have you participated in an open source project before? What was your experience like? If not, why not? Respond to any of the readings above. You can write this as a blog post or medium post (be mindful of including image captions for accessibility). Pull request a link to your post below:
   - Name: [Title](url)
+  - Ender: [Reading Notes](https://leaflet.pub/91656387-3430-4ce3-92fb-88150f4c7651)
 
 ## Week 3: Community, 4/6
 
