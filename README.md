@@ -28,9 +28,9 @@ This studio course introduces students to the culture and practice of open sourc
 
 ### Reading
 
-- [What Does “Open Source” Even Mean?](https://medium.com/@kenjagan/what-does-open-source-even-mean-6bd47befe696) by Jen Kagan
+- [What Does “Open Source” Even Mean? Interview with Lauren Lee McCarthy](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39) by Jen Kagan
 - [Inessential Weirdnesses in Open Source Software](https://www.harihareswara.net/sumana/2016/05/21/0) by Sumana Harihareswara
-- [OSSTA-Zine](https://github.com/galaxykate/OSSTA-Zine) by Kate Compton
+- [OSSTA-Zine](https://github.com/galaxykate/OSSTA-Zine/blob/master/osta-zine.pdf) by Kate Compton
 - [Introducing Yourself to Unfamiliar Open Source Projects](http://melchua.org/2013/06/20/hacker-school-introducing-yourself-to-unfamiliar-open-source-projects/) by Mel Chua
 
 ## Week 2: More Version Control and Project Management, 3/30
@@ -89,6 +89,11 @@ This studio course introduces students to the culture and practice of open sourc
 - [A new Code of Conduct and License for ml5.js](https://ml5js.org/blog/archive-coc-launch/)
 - [#ethicalCS: bring ethics, identity, and impact to Computer Science education](https://medium.com/@ed_saber/ethicalcs-bring-ethics-identity-and-impact-to-computer-science-education-eae5a9d4682) by Saber Khan
 - [Open Source Guide: Building Community](https://opensource.guide/building-community/)
+
+### Assignment
+
+- Try following the steps to fork, clone, commit, and submit a pull request to the [ml5.js reference](https://github.com/ml5js/ml5-website-v02-docsify). You can follow either this [GitHub Desktop walkthrough](https://youtu.be/XBTzf10JzCk) or this [Terminal Git Commands walkthrough](https://youtu.be/V6Q-kLXcQ28). You could also try the [ml5 gatsby repo](https://github.com/ml5js/ml5-website-v02-gatsby), [ml5-nextgen repo](https://github.com/ml5js/ml5-next-gen), or even p5.js! Write a short reflection on your experience with this process, as well as on the readings above. Pull request a link to your post below:
+  - Name: [Title](url)
 
 ## Week 4: 4/13
 
