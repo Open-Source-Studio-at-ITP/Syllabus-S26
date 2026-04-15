@@ -1,4 +1,4 @@
-# Final Project
+# Final Assignment
 
 The goal of the final project is to make an open source contribution. This can be something quite small, even just a single page of documentation, one new code example, a single dataset.
 
