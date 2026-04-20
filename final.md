@@ -45,6 +45,7 @@ Pull request a link to your proposal below:
 - [Rajeshwari — UX Emotion-to-Color Mapping dataset for Corpora](https://github.com/dariusk/corpora/pull/440)
 - Althea: [Altheafinalproposal](https://docs.google.com/document/d/1R0wL39g59g8wUFMQz7Qx1LjJrNPLsvX8JmVArumSO5Q/edit?tab=t.0)
 - Sihong: [ResumeBase](https://github.com/Helena-Q1111/ResumeBase)
+- Richard: [theAlgorithmsOfTheCity](https://github.com/ludwigpeking/2603_theAlgorithmsOfTheCity)
 - Kezia Widjaja: [Blog](https://klogs.e-kezia.com/itp-blog/open-source-studio/oss-project-proposal)
 
 ### 2: Development Studio, 4/27
