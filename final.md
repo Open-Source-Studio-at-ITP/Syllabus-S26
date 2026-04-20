@@ -39,6 +39,7 @@ Come to class ready to present your proposal. Before class:
 Pull request a link to your proposal below:
 
 - Name: [Title](url)
+- [Rajeshwari — UX Emotion-to-Color Mapping dataset for Corpora](https://github.com/dariusk/corpora/pull/440)
 
 ### 2: Development Studio, 4/27
 
