@@ -28,9 +28,9 @@ This studio course introduces students to the culture and practice of open sourc
 
 ### Reading
 
-- [What Does “Open Source” Even Mean?](https://medium.com/@kenjagan/what-does-open-source-even-mean-6bd47befe696) by Jen Kagan
+- [What Does “Open Source” Even Mean? Interview with Lauren Lee McCarthy](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39) by Jen Kagan
 - [Inessential Weirdnesses in Open Source Software](https://www.harihareswara.net/sumana/2016/05/21/0) by Sumana Harihareswara
-- [OSSTA-Zine](https://github.com/galaxykate/OSSTA-Zine) by Kate Compton
+- [OSSTA-Zine](https://github.com/galaxykate/OSSTA-Zine/blob/master/osta-zine.pdf) by Kate Compton
 - [Introducing Yourself to Unfamiliar Open Source Projects](http://melchua.org/2013/06/20/hacker-school-introducing-yourself-to-unfamiliar-open-source-projects/) by Mel Chua
 
 ## Week 2: More Version Control and Project Management, 3/30
@@ -87,37 +87,39 @@ This studio course introduces students to the culture and practice of open sourc
 
 ### Reading
 
+- [Aligning an Open Source Ethos](https://www.opensourceethos.net/) by Roopa Vasudevan
 - [A new Code of Conduct and License for ml5.js](https://ml5js.org/blog/archive-coc-launch/)
-- [#ethicalCS: bring ethics, identity, and impact to Computer Science education](https://medium.com/@ed_saber/ethicalcs-bring-ethics-identity-and-impact-to-computer-science-education-eae5a9d4682) by Saber Khan
 - [Open Source Guide: Building Community](https://opensource.guide/building-community/)
 
 
 - Ender: [Reading Notes](https://leaflet.pub/438a66a2-296b-4c14-90ea-a65af6a09d1c)
 
+### Assignment
+
+- Try following the steps to fork, clone, commit, and submit a pull request to the [ml5.js reference](https://github.com/ml5js/ml5-website-v02-docsify). You can follow either this [GitHub Desktop walkthrough](https://youtu.be/XBTzf10JzCk) or this [Terminal Git Commands walkthrough](https://youtu.be/V6Q-kLXcQ28). You could also try the [ml5 gatsby repo](https://github.com/ml5js/ml5-website-v02-gatsby), [ml5-nextgen repo](https://github.com/ml5js/ml5-next-gen), or even p5.js! Write a short reflection on your experience with this process, as well as on the readings above. 
+
 ## Week 4: 4/13
 
-### Case Study: TBD
+### Case Study: [Dither Lang](https://github.com/LingDong-/dither-lang) with [Lingdong Huang](https://lingdong.works/)
 
-### Case Study: TBD
+### Case Study: [Processing](https://processing.org/) and [mewnala](https://github.com/processing/libprocessing) with [Moon Davé](https://softmoon.world/)
+
+### Code Reviews
+
+- Merge conflicts
+- Reviewing PRs
+  - Checking out a PR locally and testing
+  - Code comments and feedback
 
 ### Assignment
 
-- Propose a contribution to an open source project or a start to your own open source project. Guidelines and Details TBA.
+- Propose a contribution to an open source project or a start to your own open source project. [Full guidelines and details](final.md)
 
-## Week 5: Project Proposal Discussion, 4/20
+## Week 5: [Project Proposals](final.md), 4/20
 
-## Week 6: Project Development Studio, 4/27
+## Week 6: [Project Development Studio Time](final.md), 4/27
 
-## Week 7: Presentations, 5/4
-
-In addition to completing an open source contribution for the course and presenting it in class as a group, each student is required to write a written reflection.
-
-- Describe your open source contribution.
-- How did your idea changed from your initial proposal?
-- What did you learn?
-- How did you get feedback on your contribution?
-- Do you plan to continue to work on this open source contribution?
-- How do you feel about contributing to open source in the future?
+## Week 7: [Project Presentations](final.md), 5/4
 
 ## Policies
 
