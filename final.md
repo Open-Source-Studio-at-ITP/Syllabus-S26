@@ -38,6 +38,7 @@ Come to class ready to present your proposal. Before class:
 
 Pull request a link to your proposal below:
 
+- Amanda Goo: [Langfuse JS + Gemini Tracing Cookbooks](https://github.com/langfuse/langfuse-docs/issues/2822)    
 - Fabrizio Guccione: [OpenCharm](https://github.com/FabriGu/OpenCharm)
 - Name: [Title](url)
 - Ziyi Yuan: [Touchdesigner Kinect gesture&Python Print](https://github.com/Tiffany2603/TD-gesture-print)
