@@ -71,7 +71,9 @@ This studio course introduces students to the culture and practice of open sourc
 - Open an issue in the [Open Source Studio Playground](https://github.com/Open-Source-Studio-at-ITP/Playground-S26)
 - Create a pull request in the [Open Source Studio Playground](https://github.com/Open-Source-Studio-at-ITP/Playground-S26). You can add a new file or propose changes to an existing file. You could write a poem, introduce an image, a JSON dataset, anything you like! No code required! To accomplish this, you can use the [GitHub website](http://github.com/) itself, [GitHub Desktop](https://desktop.github.com/download/), the [GitHub CLI](https://cli.github.com/), or just [native git](https://git-scm.com/) commands themselves.
 - Comment on at least one other issue / pull request.
-- Write some reflections on what open source means to you. Have you participated in an open source project before? What was your experience like? If not, why not? Respond to any of the readings above. You can write this as a blog post or medium post (be mindful of including image captions for accessibility). [Pull request a link in the playground](https://github.com/Open-Source-Studio-at-ITP/Playground-S26).
+- Write some reflections on what open source means to you. Have you participated in an open source project before? What was your experience like? If not, why not? Respond to any of the readings above. You can write this as a blog post or medium post (be mindful of including image captions for accessibility). Pull request a link to your post below:
+  - Name: [Title](url)
+  - Ender: [Reading Notes](https://leaflet.pub/91656387-3430-4ce3-92fb-88150f4c7651)
 
 ## Week 3: Community, 4/6
 
@@ -88,6 +90,9 @@ This studio course introduces students to the culture and practice of open sourc
 - [Aligning an Open Source Ethos](https://www.opensourceethos.net/) by Roopa Vasudevan
 - [A new Code of Conduct and License for ml5.js](https://ml5js.org/blog/archive-coc-launch/)
 - [Open Source Guide: Building Community](https://opensource.guide/building-community/)
+
+
+- Ender: [Reading Notes](https://leaflet.pub/438a66a2-296b-4c14-90ea-a65af6a09d1c)
 
 ### Assignment
 
