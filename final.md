@@ -73,3 +73,4 @@ Pull request a link to your documentation below:
 - Amanda Goo: [Langfuse pull request](https://github.com/langfuse/langfuse-docs/pull/2878), [Slides](https://docs.google.com/presentation/d/1ba1cicJBmIW_fUt13C4GHWri8AyQCGR_Z77XwvmQui4/edit?slide=id.p#slide=id.p)
 - Sihong Shen: [Github](https://github.com/Helena-Q1111/ResumeBase), [Documentation](https://www.notion.so/Final-Project-Documentation-3567c8dca34580c783d8e311c4377710?source=copy_link)
 - Yafira: [github repo](https://github.com/yafira/tinytinker-tools), [blog post](https://electrocuteitp.wordpress.com/2026/05/03/tinytinker-tools-is-open-source/)
+- Richard: [website](https://2603-the-algorithms-of-the-city.vercel.app/)[repo](https://github.com/ludwigpeking/2603_theAlgorithmsOfTheCity)[visual intro](https://www.youtube.com/watch?v=xrFgm3PKJoA&t=115s)
