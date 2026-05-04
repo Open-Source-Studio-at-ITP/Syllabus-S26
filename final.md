@@ -75,3 +75,4 @@ Pull request a link to your documentation below:
 - Yafira: [github repo](https://github.com/yafira/tinytinker-tools), [blog post](https://electrocuteitp.wordpress.com/2026/05/03/tinytinker-tools-is-open-source/)
 - Richard: [website](https://2603-the-algorithms-of-the-city.vercel.app/)[repo](https://github.com/ludwigpeking/2603_theAlgorithmsOfTheCity)[visual intro](https://www.youtube.com/watch?v=xrFgm3PKJoA&t=115s)
 - Tiffany: [Github Link](https://github.com/Tiffany2603/TD-gesture-print), [blog post](https://www.notion.so/Open-Source-Studio-Final-356a0e5b1afc80a5b370f4fed7e9954f?source=copy_link)
+- Ender: [Written post](https://leaflet.pub/fe798a88-b36a-43be-9442-c97d11a9b873)
