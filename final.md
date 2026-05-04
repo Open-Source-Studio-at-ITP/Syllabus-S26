@@ -70,3 +70,4 @@ Pull request a link to your documentation below:
 - Name: [Title](url)
 - Gwen Goins: [Github Link](https://github.com/gwengo/open-collage), [blog post](https://www.notion.so/Final-Blog-Post-355e6575b89580e1861af7dd66b0a473?source=copy_link)
 - Rajeshwari : - [emotion-design-tokens](https://github.com/RajKotwal/emotion-design-tokens)
+- Amanda Goo: [Langfuse pull request](https://github.com/langfuse/langfuse-docs/pull/2878), [Slides](https://docs.google.com/presentation/d/1ba1cicJBmIW_fUt13C4GHWri8AyQCGR_Z77XwvmQui4/edit?slide=id.p#slide=id.p)
